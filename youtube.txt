@@ -1,0 +1,13 @@
+! Title: youtube-personal
+! Description: YT clutter-free
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 3 days
+
+! https://www.youtube.com
+www.youtube.com##ytd-guide-entry-renderer.style-scope:has-text(Na czasie)
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
+www.youtube.com##ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-continuation-item-renderer
+www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com###comments
