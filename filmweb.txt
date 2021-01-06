@@ -1,5 +1,5 @@
-! Title: filmweb-personal
-! Description: Filmweb
+! Title: personal-filmweb
+! Description: Filtry do filmwebu
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 3 days
 

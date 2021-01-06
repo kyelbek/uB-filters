@@ -1,4 +1,4 @@
-! Title: youtube-personal
+! Title: personal-youtube
 ! Description: YT clutter-free
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 3 days
