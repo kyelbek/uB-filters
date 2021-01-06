@@ -9,3 +9,5 @@ www.filmweb.pl##.isReady.TabSectionNews.tabSectionNews.tabSection--skyAd.tabSect
 www.filmweb.pl##.isReady.TabSectionTakePart.tabSectionTakePart.tabSection.page__section
 www.filmweb.pl##.isReady.FwmArticlesSection.fwmArticlesSection.page__section--black.page__section
 www.filmweb.pl##.isReady.TabSectionReviews.tabSectionReviews.tabSection.page__section
+www.filmweb.pl##.isReady.slideshowSection--gamesSlideshowSection.SlideshowSection.slideshowSection.page__section
+www.filmweb.pl##.isReady.TabSectionFwPrograms.tabSectionFwPrograms.tabSection.page__section
