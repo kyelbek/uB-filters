@@ -10,4 +10,5 @@ www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.styl
 www.youtube.com##ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-continuation-item-renderer
 www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky > .ytd-metadata-row-container-renderer.style-scope
 www.youtube.com###comments
