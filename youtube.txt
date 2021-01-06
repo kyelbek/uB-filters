@@ -1,7 +1,7 @@
 ! Title: personal-youtube
 ! Description: YT clutter-free
 ! Homepage: https://github.com/kyelbek/uB-filters
-! Expires: 3 days
+! Expires: 1 days
 
 ! https://www.youtube.com
 www.youtube.com##ytd-guide-entry-renderer.style-scope:has-text(Na czasie)

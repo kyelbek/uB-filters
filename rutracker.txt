@@ -1,7 +1,7 @@
 ! Title: personal-rutracker
 ! Description: Rutracker
 ! Homepage: https://github.com/kyelbek/uB-filters
-! Expires: 3 days
+! Expires: 1 days
 
 rutracker.org###sidebar1_wrap > .ext-links.products.bn-idx
 rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx
