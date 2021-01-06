@@ -1,0 +1,7 @@
+! Title: filmweb-personal
+! Description: Filmweb
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 3 days
+
+www.filmweb.pl##.isReady.MainSlideshowSection.mainSlideshowSection.page__section
+www.filmweb.pl##.isReady.TabSectionNews.tabSectionNews.tabSection--skyAd.tabSection.page__section
