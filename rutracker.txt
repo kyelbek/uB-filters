@@ -3,9 +3,5 @@
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 3 days
 
-||rutrk.org/240x400/200828_01.gif$image
-||rutrk.org/240x400/200828_01.gif$image
-||betsonsport.ru/b/lend3.php$subdocument
-||www.betsonsport.ru/banners/sport3303.php?rnd=537827485$subdocument
-||rutrk.org/iframe/MG-240x400-left-1.html?rnd=537827485$subdocument
-||rutrk.org/240x800/0120_4.gif$image
+rutracker.org###sidebar1_wrap > .ext-links.products.bn-idx
+rutracker.org###idx-sidebar2 > .ext-links.products.bn-idx
