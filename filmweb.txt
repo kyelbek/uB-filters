@@ -16,3 +16,4 @@ www.filmweb.pl##.item-sub--plus.item-sub__space-bottom.item-sub
 www.filmweb.pl##.menu__extra
 www.filmweb.pl###filmwebMainMobile > .item__new
 www.filmweb.pl##.isReady.NewsSection.newsSection--filmNewsSection.newsSection--mainColumn.newsSection.page__section
+www.filmweb.pl##.subPageLinkBlock__advertButton
