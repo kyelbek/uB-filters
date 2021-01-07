@@ -8,3 +8,4 @@ rutracker.org##.ext-links.products.bn-bottom
 rutracker.org##.products.bn-topic
 rutracker.org###idx-sidebar2
 rutracker.org##div.bn-idx
+rutracker.org##.ext-links.td2
