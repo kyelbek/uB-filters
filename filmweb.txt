@@ -17,3 +17,7 @@ www.filmweb.pl##.menu__extra
 www.filmweb.pl###filmwebMainMobile > .item__new
 www.filmweb.pl##.isReady.NewsSection.newsSection--filmNewsSection.newsSection--mainColumn.newsSection.page__section
 www.filmweb.pl##.subPageLinkBlock__advertButton
+www.filmweb.pl###stayAtHomeAdvertSamsung
+www.filmweb.pl##.isReady.VisitCanalPlusSection.visitCanalPlusSection.page__section
+www.filmweb.pl###stayAtHomeKolekcjeNews
+www.filmweb.pl###stayAtHomeKoronawirusNews
