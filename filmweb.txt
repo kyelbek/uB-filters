@@ -25,3 +25,5 @@ www.filmweb.pl##.subPageLinkBlock__advertButton
 www.filmweb.pl###stayAtHomeAdvertSamsung
 www.filmweb.pl###stayAtHomeKolekcjeNews
 www.filmweb.pl###stayAtHomeKoronawirusNews
+www.filmweb.pl##.isReady.RankingSidebarSection
+www.filmweb.pl##.isReady.RankingVideosSection
