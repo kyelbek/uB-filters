@@ -14,7 +14,6 @@ www.filmweb.pl##.isReady.TabSectionFwPrograms.tabSectionFwPrograms.tabSection.pa
 www.filmweb.pl##.isReady.VisitCanalPlusSection.visitCanalPlusSection.page__section
 www.filmweb.pl##.item-only-www.item-top
 www.filmweb.pl##.item-sub--plus
-www.filmweb.pl##.item-sub__plus
 www.filmweb.pl##.menu__extra
 www.filmweb.pl###filmwebMainMobile > .item__new
 www.filmweb.pl##.isReady.NewsSection.newsSection--gamesNews.newsSection
