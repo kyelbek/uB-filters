@@ -3,26 +3,28 @@
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 
-filmweb.pl#$#.header--main.header.site__header { background-color: #000  !important; }
-www.filmweb.pl##.isReady.MainSlideshowSection.mainSlideshowSection.page__section
-www.filmweb.pl##.isReady.TabSectionNews.tabSectionNews.tabSection--skyAd.tabSection.page__section
-www.filmweb.pl##.isReady.TabSectionTakePart.tabSectionTakePart.tabSection.page__section
-www.filmweb.pl##.isReady.FwmArticlesSection.fwmArticlesSection.page__section--black.page__section
-www.filmweb.pl##.isReady.TabSectionReviews.tabSectionReviews.tabSection.page__section
-www.filmweb.pl##.isReady.slideshowSection--gamesSlideshowSection.SlideshowSection.slideshowSection.page__section
-www.filmweb.pl##.isReady.TabSectionFwPrograms.tabSectionFwPrograms.tabSection.page__section
-www.filmweb.pl##.isReady.VisitCanalPlusSection.visitCanalPlusSection.page__section
+www.filmweb.pl#$#.header--main.header.site__header { background-color: #000  !important; }
+!www.filmweb.pl#$#.mainSlideshowSection{background-color: #000; visibility:hidden !important}
+www.filmweb.pl#$#.innerBg{visibility:hidden !important}
+www.filmweb.pl##.mainSlideshowSection
+www.filmweb.pl##.TabSectionNews
+www.filmweb.pl##.TabSectionTakePart.tabSectionTakePart.tabSection.page__section
+www.filmweb.pl##.FwmArticlesSection.fwmArticlesSection.page__section--black.page__section
+www.filmweb.pl##.TabSectionReviews.tabSectionReviews.tabSection.page__section
+www.filmweb.pl##.slideshowSection--gamesSlideshowSection.SlideshowSection.slideshowSection.page__section
+www.filmweb.pl##.TabSectionFwPrograms.tabSectionFwPrograms.tabSection.page__section
+www.filmweb.pl##.VisitCanalPlusSection.visitCanalPlusSection.page__section
 www.filmweb.pl##.item-only-www.item-top
 www.filmweb.pl##.item-sub--plus
 www.filmweb.pl##.menu__extra
 www.filmweb.pl###filmwebMainMobile > .item__new
-www.filmweb.pl##.isReady.NewsSection.newsSection--gamesNews.newsSection
-www.filmweb.pl##.isReady.NewsSection.newsSection--filmNewsSection
-www.filmweb.pl##.isReady.NewsSection.newsSection--filmsNews
-www.filmweb.pl##.isReady.NewsSection.newsSection--serialsNews
+www.filmweb.pl##.NewsSection.newsSection--gamesNews.newsSection
+www.filmweb.pl##.NewsSection.newsSection--filmNewsSection
+www.filmweb.pl##.NewsSection.newsSection--filmsNews
+www.filmweb.pl##.NewsSection.newsSection--serialsNews
 www.filmweb.pl##.subPageLinkBlock__advertButton
 www.filmweb.pl###stayAtHomeAdvertSamsung
 www.filmweb.pl###stayAtHomeKolekcjeNews
 www.filmweb.pl###stayAtHomeKoronawirusNews
-www.filmweb.pl##.isReady.RankingSidebarSection
-www.filmweb.pl##.isReady.RankingVideosSection
+www.filmweb.pl##.RankingSidebarSection
+www.filmweb.pl##.RankingVideosSection
