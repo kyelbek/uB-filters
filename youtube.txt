@@ -7,7 +7,7 @@
 youtube.com##+js(ra, guide-persistent-and-visible)
 www.youtube.com###guide-button
 www.youtube.com###guide
-!www.youtube.com##[href="/feed/trending"]
+www.youtube.com##[href="/feed/trending"]
 !www.youtube.com##.grid-disabled.grid.ytd-browse
 www.youtube.com##ytd-rich-grid-renderer.style-scope
 www.youtube.com###voice-search-button
