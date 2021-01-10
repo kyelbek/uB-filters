@@ -4,14 +4,17 @@
 ! Expires: 1 days
 
 ! https://www.youtube.com
-www.youtube.com##ytd-guide-entry-renderer.style-scope:has-text(Na czasie)
-www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
-www.youtube.com###voice-search-button
+youtube.com##+js(ra, guide-persistent-and-visible)
+www.youtube.com###guide-button
+www.youtube.com###guide
+!www.youtube.com##[href="/feed/trending"]
+!www.youtube.com##.grid-disabled.grid.ytd-browse
 www.youtube.com##ytd-rich-grid-renderer.style-scope
+www.youtube.com###voice-search-button
+www.youtube.com##ytd-topbar-menu-button-renderer.style-default.ytd-masthead:nth-of-type(2)
 www.youtube.com##ytd-continuation-item-renderer
-www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer.style-scope
-www.youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky > .ytd-metadata-row-container-renderer.style-scope
+www.youtube.com##ytd-compact-video-renderer.ytd-watch-next-secondary-results-renderer
+www.youtube.com##.ytd-video-secondary-info-renderer.style-scope.sticky
+www.youtube.com###offer-module
 www.youtube.com###comments
 
