@@ -1,0 +1,9 @@
+! Title: personal-misc
+! Description: misc filters
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 1 days
+
+fotka.com###brd_najnowsze
+poczta.o2.pl##.Overlay
+poczta.o2.pl##one-login-bar
+poczta.o2.pl##.cuYROd.sc-hjRWVT.sc-EHOje.sc-ifAKCX
