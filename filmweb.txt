@@ -28,3 +28,6 @@ www.filmweb.pl###stayAtHomeKolekcjeNews
 www.filmweb.pl###stayAtHomeKoronawirusNews
 www.filmweb.pl##.RankingSidebarSection
 www.filmweb.pl##.RankingVideosSection
+www.filmweb.pl##.newsHeader
+www.filmweb.pl##.newsContainer
+www.filmweb.pl##.FilmTakePartSection
