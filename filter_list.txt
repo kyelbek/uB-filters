@@ -1,4 +1,8 @@
-https://raw.githubusercontent.com/kyelbek/uB-filters/main/filmweb.txt?token=ACFTRGGNTBBYLS5H3J7IAB3AA53CS
-https://raw.githubusercontent.com/kyelbek/uB-filters/main/youtube.txt?token=ACFTRGGL646SWU2ZZIGMF53AA53EO
-https://raw.githubusercontent.com/kyelbek/uB-filters/main/rutracker.txt?token=ACFTRGBKDH6KWB325LLTEX3AA53EC
-https://raw.githubusercontent.com/kyelbek/uB-filters/main/misc.txt?token=ACFTRGGZ7M6OGSWWW3SCA3DAA53DG
+! Title: personal-filter-collection
+! Description: Filters collection
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 1 days
+!#include https://raw.githubusercontent.com/kyelbek/uB-filters/main/filmweb.txt?token=ACFTRGGNTBBYLS5H3J7IAB3AA53CS
+!#include https://raw.githubusercontent.com/kyelbek/uB-filters/main/youtube.txt?token=ACFTRGGL646SWU2ZZIGMF53AA53EO
+!#include https://raw.githubusercontent.com/kyelbek/uB-filters/main/rutracker.txt?token=ACFTRGBKDH6KWB325LLTEX3AA53EC
+!#include https://raw.githubusercontent.com/kyelbek/uB-filters/main/misc.txt?token=ACFTRGGZ7M6OGSWWW3SCA3DAA53DG
