@@ -5,4 +5,5 @@
 !#include filmweb.txt
 !#include youtube.txt
 !#include rutracker.txt
+!#include opensubtitles.txt
 !#include misc.txt
