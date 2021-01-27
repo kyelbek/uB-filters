@@ -1,3 +1,3 @@
 # uB-filters
 
-Prywatne filtry uBlock Origin
+Personal uBlock Origin filters
