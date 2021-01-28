@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 
+fotka.com##.fotkaLightBoxObscure
 fotka.com###brd_najnowsze
 poczta.o2.pl##.Overlay
 poczta.o2.pl##one-login-bar
