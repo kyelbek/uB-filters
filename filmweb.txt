@@ -17,6 +17,7 @@ www.filmweb.pl##.VisitCanalPlusSection.visitCanalPlusSection.page__section
 www.filmweb.pl##.item-only-www.item-top
 www.filmweb.pl##.item-sub--plus
 www.filmweb.pl##.menu__extra
+www.filmweb.pl##li.navList__item:nth-of-type(5)
 www.filmweb.pl###filmwebMainMobile > .item__new
 www.filmweb.pl##.NewsSection.newsSection--gamesNews.newsSection
 www.filmweb.pl##.NewsSection.newsSection--filmNewsSection
