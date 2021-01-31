@@ -32,3 +32,4 @@ www.filmweb.pl##.newsHeader
 www.filmweb.pl##.newsContainer
 www.filmweb.pl##.FilmTakePartSection
 www.filmweb.pl##.filmInfo__infoNew
+www.filmweb.pl##.lightBox__fwa
