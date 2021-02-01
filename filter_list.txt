@@ -1,5 +1,5 @@
-! Title: personal-filter-collection
-! Description: Filters collection
+! Title: klbk-personal-collection
+! Description: Personal collection
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 !#include filmweb.txt

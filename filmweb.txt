@@ -1,5 +1,5 @@
-! Title: personal-filmweb
-! Description: Filtry do filmwebu
+! Title: klbk-filmweb
+! Description: Filmweb - cancer = ?
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 

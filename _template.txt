@@ -1,5 +1,5 @@
-! Title: personal-site
-! Description: site filters
+! Title: klbk-site
+! Description: www.site.com
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 

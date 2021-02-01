@@ -1,4 +1,4 @@
-! Title: personal-rutracker
+! Title: klbk-rutracker
 ! Description: Rutracker
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days

@@ -1,5 +1,5 @@
-! Title: personal-site
-! Description: site filters
+! Title: klbk-o2-mail
+! Description: o2 mail filters
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
 

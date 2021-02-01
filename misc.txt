@@ -1,4 +1,4 @@
-! Title: personal-misc
+! Title: klbk-misc
 ! Description: misc filters
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days

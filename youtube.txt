@@ -1,4 +1,4 @@
-! Title: personal-youtube
+! Title: klbk-youtube
 ! Description: YT clutter-free
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
