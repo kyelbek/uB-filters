@@ -4,7 +4,7 @@
 ! Expires: 1 days
 
 ! https://www.youtube.com
-youtube.com##+js(ra, guide-persistent-and-visible)
+!youtube.com##+js(ra, guide-persistent-and-visible)
 www.youtube.com###guide-button
 www.youtube.com###guide
 www.youtube.com##[href="/feed/trending"]

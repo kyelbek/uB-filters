@@ -1,0 +1,8 @@
+! Title: personal-site
+! Description: site filters
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 1 days
+
+poczta.o2.pl##one-login-bar
+poczta.o2.pl##.cuYROd.sc-hjRWVT.sc-EHOje.sc-ifAKCX
+poczta.o2.pl##.NativeLinkGroup

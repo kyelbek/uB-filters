@@ -5,8 +5,6 @@
 
 fotka.com##.fotkaLightBoxObscure
 fotka.com###brd_najnowsze
-poczta.o2.pl##one-login-bar
-poczta.o2.pl##.cuYROd.sc-hjRWVT.sc-EHOje.sc-ifAKCX
 www.komputerswiat.pl##.paidContent-bar
 ! 2021-01-15 https://www.elektroda.pl
 www.elektroda.pl##.clearfix.HVmCeEMUv3RN
