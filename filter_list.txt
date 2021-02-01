@@ -6,4 +6,5 @@
 !#include youtube.txt
 !#include rutracker.txt
 !#include opensubtitles.txt
+!#include o2.txt
 !#include misc.txt
