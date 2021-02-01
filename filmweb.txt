@@ -7,6 +7,7 @@ www.filmweb.pl#$#.header--main.header.site__header { background-color: #000  !im
 !www.filmweb.pl#$#.mainSlideshowSection{background-color: #000; visibility:hidden !important}
 www.filmweb.pl#$#.innerBg{visibility:hidden !important}
 www.filmweb.pl##.mainSlideshowSection
+www.filmweb.pl##.simpleCarouselSection--player
 www.filmweb.pl##.TabSectionNews
 www.filmweb.pl##.TabSectionTakePart.tabSectionTakePart.tabSection.page__section
 www.filmweb.pl##.FwmArticlesSection.fwmArticlesSection.page__section--black.page__section
