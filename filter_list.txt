@@ -2,9 +2,9 @@
 ! Description: Personal collection
 ! Homepage: https://github.com/kyelbek/uB-filters
 ! Expires: 1 days
-!#include filmweb.txt
-!#include youtube.txt
-!#include rutracker.txt
-!#include opensubtitles.txt
-!#include o2.txt
-!#include misc.txt
+!#include sites/filmweb.txt
+!#include sites/youtube.txt
+!#include sites/rutracker.txt
+!#include sites/opensubtitles.txt
+!#include sites/o2.txt
+!#include sites/misc.txt

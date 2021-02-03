@@ -1,0 +1,40 @@
+! Title: klbk-filmweb
+! Description: Filmweb - cancer = ?
+! Homepage: https://github.com/kyelbek/uB-filters
+! Expires: 1 days
+
+www.filmweb.pl#$#.header--main.header.site__header { background-color: #000  !important; }
+!www.filmweb.pl#$#.mainSlideshowSection{background-color: #000; visibility:hidden !important}
+www.filmweb.pl#$#.innerBg{visibility:hidden !important}
+www.filmweb.pl##.mainSlideshowSection
+www.filmweb.pl##.simpleCarouselSection--player
+www.filmweb.pl##.TabSectionNews
+www.filmweb.pl##.TabSectionTakePart.tabSectionTakePart.tabSection.page__section
+www.filmweb.pl##.FwmArticlesSection.fwmArticlesSection.page__section--black.page__section
+www.filmweb.pl##.TabSectionReviews.tabSectionReviews.tabSection.page__section
+www.filmweb.pl##.slideshowSection--gamesSlideshowSection.SlideshowSection.slideshowSection.page__section
+www.filmweb.pl##.TabSectionFwPrograms.tabSectionFwPrograms.tabSection.page__section
+www.filmweb.pl##.VisitCanalPlusSection.visitCanalPlusSection.page__section
+www.filmweb.pl##.item-only-www.item-top
+www.filmweb.pl##.item-sub--plus
+www.filmweb.pl##.menu__extra
+www.filmweb.pl##li.navList__item:nth-of-type(5)
+www.filmweb.pl##.advertButton--playnow.advertButton
+www.filmweb.pl###filmwebMainMobile > .item__new
+www.filmweb.pl##.NewsSection.newsSection--gamesNews.newsSection
+www.filmweb.pl##.NewsSection.newsSection--filmNewsSection
+www.filmweb.pl##.NewsSection.newsSection--filmsNews
+www.filmweb.pl##.NewsSection.newsSection--serialsNews
+www.filmweb.pl##.subPageLinkBlock__advertButton
+www.filmweb.pl###stayAtHomeAdvertSamsung
+www.filmweb.pl###stayAtHomeKolekcjeNews
+www.filmweb.pl###stayAtHomeKoronawirusNews
+www.filmweb.pl##.RankingSidebarSection
+www.filmweb.pl##.RankingVideosSection
+www.filmweb.pl##.newsHeader
+www.filmweb.pl##.newsContainer
+www.filmweb.pl##.FilmTakePartSection
+www.filmweb.pl##.filmInfo__infoNew
+!www.filmweb.pl##.lightBox__fwa
+www.filmweb.pl###skyBannerLightbox
+www.filmweb.pl#$#.lightboxNEW:not(.fullscreen){top:0px !important}
