@@ -6,11 +6,16 @@
 fotka.com##.fotkaLightBoxObscure
 fotka.com###brd_najnowsze
 www.komputerswiat.pl##.paidContent-bar
+
 ! 2021-01-15 https://www.elektroda.pl
 www.elektroda.pl##.clearfix.HVmCeEMUv3RN
 www.elektroda.pl##li.eq-height:nth-of-type(1)
 www.elektroda.pl##.JWzeW7p9as
+
 ! 2021-01-28 https://www.last.fm
 www.last.fm##.auth-dropdown-pro-text.auth-dropdown-menu-item
 www.last.fm##.user-dashboard-history-subscribe-banner-cta
 www.last.fm##.inverted-bg
+
+! 2021-02-03 https://www.imdb.com
+www.imdb.com##.banner-container

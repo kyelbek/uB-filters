@@ -6,3 +6,4 @@
 poczta.o2.pl##one-login-bar
 poczta.o2.pl##.cuYROd.sc-hjRWVT.sc-EHOje.sc-ifAKCX
 poczta.o2.pl##.NativeLinkGroup
+poczta.o2.pl##promo-panels
