@@ -19,3 +19,8 @@ www.last.fm##.inverted-bg
 
 ! 2021-02-03 https://www.imdb.com
 www.imdb.com##.banner-container
+
+! 2021-02-16 https://crackwatch.com
+crackwatch.com##.presenter-container
+||crackwatch.com^$csp=img-src *
+crackwatch.com##div[id]:has(>a span[style*="data:image"])
